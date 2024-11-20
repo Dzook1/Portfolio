@@ -407,6 +407,13 @@ header {
 .portfolio-item {
     background: var(--clr-accent);
     overflow: hidden;
+    padding: 5px;
+}
+
+.portfolio-p {
+    color: black;
+    font-weight: bold;
+    font-size: larger;
 }
 
 .portfolio-img {
